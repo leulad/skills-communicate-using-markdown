@@ -11,3 +11,7 @@ func calculateTotalTax(taxSystems []taxSystem) int {
     return totalTax
 }
 ```
+- [x] Added Headers
+- [x] Add image
+- [x] Add code snippet
+- [ ] Finish with style
